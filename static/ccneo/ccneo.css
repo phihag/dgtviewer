@@ -1,0 +1,37 @@
+/** Embedded SVGs for all chess pieces */
+.cg-wrap piece.pawn.white {
+  background-image: url('wp.png');
+}
+.cg-wrap piece.bishop.white {
+  background-image: url('wb.png');
+}
+.cg-wrap piece.knight.white {
+  background-image: url('wn.png');
+}
+.cg-wrap piece.rook.white {
+  background-image: url('wr.png');
+}
+.cg-wrap piece.queen.white {
+  background-image: url('wq.png');
+}
+.cg-wrap piece.king.white {
+  background-image: url('wk.png');
+}
+.cg-wrap piece.pawn.black {
+  background-image: url('bp.png');
+}
+.cg-wrap piece.bishop.black {
+  background-image: url('bb.png');
+}
+.cg-wrap piece.knight.black {
+  background-image: url('bn.png');
+}
+.cg-wrap piece.rook.black {
+  background-image: url('br.png');
+}
+.cg-wrap piece.queen.black {
+  background-image: url('bq.png');
+}
+.cg-wrap piece.king.black {
+  background-image: url('bk.png');
+}
